@@ -1,0 +1,6 @@
+baseURL = "https://ud-crpl.github.io/blog/"
+languageCode = "en-us"
+title = "CRPL_CISC@UD blog"
+theme = "tale"
+publishDir = "docs"
+canonifyurls = true
