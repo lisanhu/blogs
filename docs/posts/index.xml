@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on CRPL_CISC@UD blog</title>
-    <link>https://ud-crpl.github.io/blog/posts/</link>
+    <link>https://lisanhu.github.io/blogs/posts/</link>
     <description>Recent content in Posts on CRPL_CISC@UD blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 07 Dec 2018 13:26:43 -0500</lastBuildDate>
     
-	<atom:link href="https://ud-crpl.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lisanhu.github.io/blogs/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My Experience @SC18</title>
-      <link>https://ud-crpl.github.io/blog/posts/my-exp-in-sc18/</link>
+      <link>https://lisanhu.github.io/blogs/posts/my-exp-in-sc18/</link>
       <pubDate>Fri, 07 Dec 2018 13:26:43 -0500</pubDate>
       
-      <guid>https://ud-crpl.github.io/blog/posts/my-exp-in-sc18/</guid>
+      <guid>https://lisanhu.github.io/blogs/posts/my-exp-in-sc18/</guid>
       <description>It&amp;rsquo;s my first time attending SC, it&amp;rsquo;s a wonderful experience!
 We worked together to set up our lovely booth. It&amp;rsquo;s great to see all the posters hanging on the wall! Diego, Jose, and Xu are bringing cool stuff to the booth, the DEMAC cluster! It has arm cores and FPGAs on it. There are 24 such boards on the 3-D printed shelf! The exhibitions are also really great! We see many big companies showing off their novel techniques!</description>
     </item>
