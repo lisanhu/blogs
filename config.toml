@@ -1,6 +1,6 @@
 baseURL = "https://lisanhu.github.io/blogs/"
 languageCode = "en-us"
-title = "CRPL_CISC@UD blog"
+title = "Sanhu Li@UD blog"
 theme = "tale"
 publishDir = "docs"
 canonifyurls = true
